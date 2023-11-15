@@ -1,0 +1,9 @@
+@import "dev/vars";
+@import "dev/mixins";
+@import "dev/functions";
+@import "dev/extensions";
+
+@include fontface("Scriptina", "fonts/Scriptina");
+@include fontface("AlegreyaRegular", "fonts/AlegreyaRegular");
+@include fontface("PlayfairDisplayBold", "fonts/PlayfairDisplayBold");
+@include fontface("ProximaNova", "fonts/ProximaNova");
